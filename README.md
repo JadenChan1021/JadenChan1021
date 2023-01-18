@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**JadenChan1021/JadenChan1021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       __          __              ________              
+      / /___ _____/ /__  ____     / ____/ /_  ____ _____ 
+ __  / / __ `/ __  / _ \/ __ \   / /   / __ \/ __ `/ __ \
+/ /_/ / /_/ / /_/ /  __/ / / /  / /___/ / / / /_/ / / / /
+\____/\__,_/\__,_/\___/_/ /_/   \____/_/ /_/\__,_/_/ /_/ 
+                                                         
 
 Here are some ideas to get you started:
 
