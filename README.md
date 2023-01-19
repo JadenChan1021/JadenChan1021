@@ -32,12 +32,23 @@
 <br>
 <br>
 <br>
+
 <img align="left" width="45px" style="padding-right:10px" src="https://media.tenor.com/kT6SqaUp2j4AAAAi/ami-fat-cat-confused.gif"/>
 
 ‎ ‎ Contact Me
 ---
+<img align="right" width="400px" style="padding-right:10px" src="https://media.tenor.com/tavcF9IpJiUAAAAC/notification-charging.gif"/>
 
+If you want to reach out, contact me through:
 
+<a href="mailto:j64chan@uwaterloo.ca"><img src="https://img.shields.io/badge/-Email-critical" /></a>
+<a href="www.linkedin.com/in/jaden-chan"><img src="https://img.shields.io/badge/-LinkedIn-blue" /></a>
+<a href=""><img src="https://img.shields.io/badge/-Website-blueviolet" /></a>
+
+<br>
+<br>
+<br>
+<br>
 <br>
 <img align="left" width="35px" style="padding-right:10px" src="https://media.tenor.com/RA06FcOPPl8AAAAj/clash-royale-cr.gif"/>
 
